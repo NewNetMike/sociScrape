@@ -1,0 +1,7 @@
+__pycache__/
+.idea/
+*.exe
+*.iml
+config.py
+secrets.py
+*.json
